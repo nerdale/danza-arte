@@ -4,8 +4,9 @@
 .box-uno{
 	background-image: url(../img/dance_1.jpg);
 	background-repeat: no-repeat;
-	background-size: cover;
-	height: 480px;
+	background-size: 120%;
+	background-position: center 10%; 
+	height: 430px;
 	margin-top: 130px;
 }
 .studio{
