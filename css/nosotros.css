@@ -1,4 +1,4 @@
-/* CLASES SECCIÓN FOTO ALUMNOS */
+/* ESTILOS SECCIÓN FOTO ALUMNOS */
 .box-uno{
 	background-image: url(../img/dance_7.jpg);
 	background-repeat: no-repeat;
@@ -19,7 +19,7 @@
 	font-size: 17px;
 	margin: 30px;
 }
-/* CLASES SECCIÓN PILAR */
+/* ESTILOS SECCIÓN PILAR */
 .box-dos{
 	background-image: url(../img/cubes.png);
 	height: 380px;
@@ -42,9 +42,7 @@
 	border: 1px solid #707070;
 	margin-bottom: 20px;	
 }
-
-
-/* CLASES SECCION INSTRUCTORES */
+/* ESTILOS SECCION INSTRUCTORES */
 .instructores{
 	text-align: center;
 }
@@ -52,18 +50,69 @@
 	font-size: 35px;
 	margin-top: 80px;
 }
-.profesores h1{
-	margin: 10px 0;
+.profesores h3{
+	margin-top: 220px;
+
 }
-.profesores img{
-	width: 80%;
-	margin-top: 60px;
-	height: 200px;
+.profesores p{
+	text-align: left;
+	margin-top: 10px;
+}
+
+.p-dos{
+	margin-top: 150px;
+	margin-bottom: 150px;
 }
 .segundo{
 	margin-bottom: 100px;
 }
-
+.foto{
+	width: 220px;
+	height: 200px;
+	display: inline-block;
+	margin: 10px;
+	margin-top: 60px;
+}
+.uno{
+	background-image: url(../img/profesor_4.jpg);
+	background-size: cover;
+	background-position: center 5%;		
+}
+.dos{
+	background-image: url(../img/profesor_14.jpg);
+	background-size: cover;
+	background-position: center 5%;		
+}
+.tres{
+	background-image: url(../img/profesor_1.jpg);
+	background-size: cover;
+	background-position: center 5%;		
+}
+.cuatro{
+	background-image: url(../img/profesor_10.jpg);
+	background-size: cover;
+	background-position: center 5%;		
+}
+.cinco{
+	background-image: url(../img/profesor_11.jpg);
+	background-size: cover;
+	background-position: center 5%;		
+}
+.seis{
+	background-image: url(../img/profesor_12.jpg);
+	background-size: cover;
+	background-position: center 5%;		
+}
+.siete{
+	background-image: url(../img/profesor_9.jpg);
+	background-size: cover;
+	background-position: center 5%;		
+}
+.ocho{
+	background-image: url(../img/profesor_15.jpg);
+	background-size: cover;
+	background-position: center 5%;		
+}
 /* ESTILOS SECCION CITA*/
 .cita{
 	text-align: center;

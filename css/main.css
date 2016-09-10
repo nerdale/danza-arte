@@ -1,5 +1,3 @@
-
-
 /* CLASES SECCIÓN FOTO BAILARINES */
 .box-uno{
 	background-image: url(../img/dance_1.jpg);
@@ -72,7 +70,6 @@
 .oferta a{
 	font-size: 17px;
 }
-
 /* ESTILOS SECCION FOTO 2 BAILARINES*/
 .back-uno{
 	background-image: url(../img/instructor_4.jpg);
@@ -97,7 +94,6 @@
 	text-align: center;
 	margin-top: -48px;
 }
-
 /* ESTILOS SECCION CITA*/
 .cita{
 	text-align: center;
@@ -107,7 +103,6 @@
 	font-style: italic;
 	margin: 150px 0px;
 }
-
 /* ESTILOS SECCION MAPA*/
 .fondomapa{
 	background-color: #192951;

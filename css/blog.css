@@ -1,1 +1,65 @@
-/* Inserta tu codigo aqui */
+/* ESTILOS ARTICULOS*/
+.box-uno{
+	background-color: #EBEBEB;
+	background-size: 100%;
+	height: 1100px;
+}
+.blog h3{
+	color: black;
+	margin-top: 200px;
+	text-align: center;
+	margin-bottom: 40px;
+
+}
+.articulo{
+	background-color: #CCCCCC;
+	height: 200px;
+	width: 100%;
+	margin: 40px 0;
+}
+.foto{
+	width: 250px;
+	height: 200px;	
+}
+.uno{
+	background-image: url(../img/blog1.jpg);
+	background-size: cover;
+	background-position: center center;	
+}
+.dos{
+	background-image: url(../img/profesor_5.jpg);
+	background-size: cover;
+	background-position: center center;	
+}
+.tres{
+	background-image: url(../img/instructor_1.jpg);
+	background-size: cover;
+	background-position: center center;	
+}
+.btn-ver{
+	color: white;
+	font-size: 12px;
+	background-color: #192951;
+	padding: 10px 80px;
+	text-decoration: none;
+	border-radius: 5px;
+}
+.btn-ver:hover {
+  background: #616161;
+  text-decoration: none;
+}
+.descrip{
+	margin-left: 40px;
+	margin-top: 20px;
+}
+.descrip h5, p{
+	margin-top: 5px;
+}
+.descrip p{
+	font-size: 13px;
+	margin-bottom: 20px;
+}
+.fecha{
+	color: #BDBDBD;
+	font-style: italic;
+}
